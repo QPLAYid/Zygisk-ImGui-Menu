@@ -1,4 +1,4 @@
-# Zygisk Mod Menu Template
+# Zygisk Mod Menu Template ANDROIDIDE
 Mod Menu template that injects at runtime for unity games (it actually works and has been used multiple times).
 
 Currently 0 games detect it, USE AT YOUR OWN RISK.
